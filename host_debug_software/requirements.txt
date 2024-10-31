@@ -1,0 +1,7 @@
+import serial # recieve COM port serial data from device
+import cv2 # openCV for interpretting received matrix data as renderable image
+import matplotlib.pyplot as plt # plot graph data; requires pip install matplotlib
+import numpy as np # maths and matrix library
+import threading # parallel execution for reading COM serial and processing queue tasks
+import queue # queue inbound tasks based on received serial data
+import sys # receive execution arguments, eg for COM port selection
