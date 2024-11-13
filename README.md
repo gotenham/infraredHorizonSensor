@@ -29,6 +29,10 @@ See research thesis at: [Infrared Horizon Sensor Thesis.pdf](_doc/_InfraredHoriz
   <img src="_doc/images/subPixelEx_topLeft.PNG" alt="orbital horizon edge sub-pixel correction example 3" height="250">
 </p>
 
+*Example Program Execution Flowchart:*
+
+<img src="_doc/images/ProgramFlowChart.drawio.png" alt="Program Execution Flowchart" width="900">
+
 ## Permissive Open-Source Licensing
 - **Software**: Licensed under the permissive [MIT License](LICENSE-MIT).
 - **Hardware Design Files**: Licensed under the [CERN-OHL-Permissive Open-Source License](LICENSE-CERN-OHL-P).
