@@ -11,11 +11,16 @@ Traditional image-based horizon sensors provide orientation information by detec
 See research thesis at: [Infrared Horizon Sensor Thesis.pdf](_doc/_InfraredHorizonSensorThesis.pdf)
 
 ## Examples
+
 *Infrared horizon sensor and example orbital attitude determination of planets nadir vector:*
 <p align="left">
   <img src="_doc/images/PCB_Assembled.jpg" alt="Prototype infrared horizon sensor PCB" height="300">
   <img src="_doc/images/attitudeExample_R(z) -20deg.PNG" alt="example nadir vector relative attitude estimation" height="300">
 </p>
+
+*Coarse pixel-level edge detection, image gradient vector field represented as 3D surface:*
+
+<img src="_doc/images/imageGradientVectorField_3DSurface.PNG" alt="Coarse edge detection image gradient vector field" width="600">
 
 *Example sub-pixel correction to detected pixel-level orbital horizon edge:* 
 <p align="left">
